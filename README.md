@@ -1,6 +1,7 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=80&section=header"/>
 
+
 <!-- Saudação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
